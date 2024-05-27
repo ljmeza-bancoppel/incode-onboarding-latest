@@ -1,4 +1,4 @@
-# Onboarding Extended Recat Sample.
+# Onboarding Extended React Example.
 
 This Sample Repository follows the recommended core flow for and Incode's onboarding, you can find a step by step on how this project was created in [Onboading Extended React Integration](https://developer.incode.com/docs/onboarding-extended-react).
 
